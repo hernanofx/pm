@@ -2054,27 +2054,34 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     font-family: 'Bangers', cursive;
 }
 
-.menuhomerojo {
-    font-size: 40px;
-    font-family: 'Monofett', cursive;
-    color: #A32535;
+.menu1 {
+    font-size: 44px;
+    font-family: 'Pacifico', cursive;
+    color: #4286f4;
 }
 
-.menuhomeamarillo {
-    font-size: 40px;
-    font-family: 'Monofett', cursive;
+.menu2 {
+    font-size: 44px;
+    font-family: 'Pacifico', cursive;
     color: #E6D672;
 }
 
-.menuhomeverde {
-    font-size: 40px;
-    font-family: 'Monofett', cursive;
-    color: #43962D;
+.menu3 {
+    font-size: 44px;
+    font-family: 'Pacifico', cursive;
+    color: #56f442;
 }
 
+.menu4 {
+    font-size: 44px;
+    font-family: 'Pacifico', cursive;
+    color: #f442b6;
+}
+
+
 .textomenucentro {
-    font-size: 38px;
-    font-family: 'Finger Paint', cursive;
+    font-size: 44px;
+    font-family: 'Pacifico', cursive;
     text-align: left;;
     color: #FFFFFF;
 }
