@@ -1,8 +1,8 @@
 require 'rubygems'
 require 'sinatra'
 
-get '/poemas' do
-  erb :index
+get '/' do
+  erb :poemas
 end
 
 get '/' do
