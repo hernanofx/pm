@@ -24,3 +24,7 @@ end
 get '/nosotros' do
   erb :'nosotros'
 end
+
+get '/extra' do
+  erb :'extra'
+end
