@@ -2055,25 +2055,25 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 .menu1 {
-    font-size: 44px;
+    font-size: 38;
     font-family: 'Pacifico', cursive;
     color: #4286f4;
 }
 
 .menu2 {
-    font-size: 44px;
+    font-size: 38;
     font-family: 'Pacifico', cursive;
     color: #E6D672;
 }
 
 .menu3 {
-    font-size: 44px;
+    font-size: 38px;
     font-family: 'Pacifico', cursive;
     color: #56f442;
 }
 
 .menu4 {
-    font-size: 44px;
+    font-size: 38px;
     font-family: 'Pacifico', cursive;
     color: #f442b6;
 }
