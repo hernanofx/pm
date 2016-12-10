@@ -2084,6 +2084,12 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     color: #ffffff;
 }
 
+.menu6 {
+    font-size: 38px;
+    font-family: 'Pacifico', cursive;
+    color: #17c3e2;
+}
+
 
 .textomenucentro {
     font-size: 44px;

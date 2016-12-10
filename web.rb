@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  erb :index
+  erb :poemas
 end
 
 get '/' do
