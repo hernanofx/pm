@@ -28,3 +28,7 @@ end
 get '/extra' do
   erb :'extra'
 end
+
+get '/cartas' do
+  erb :'cartas'
+end
