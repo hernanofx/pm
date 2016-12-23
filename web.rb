@@ -33,6 +33,6 @@ get '/cartas' do
   erb :'cartas'
 end
 
-get '/vos' do
-  erb :'vos'
+get '/videos' do
+  erb :'videos'
 end
