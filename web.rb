@@ -32,3 +32,7 @@ end
 get '/cartas' do
   erb :'cartas'
 end
+
+get '/vos' do
+  erb :'vos'
+end
