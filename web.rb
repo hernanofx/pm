@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  erb :videos
+  erb :index
 end
 
 get '/' do
